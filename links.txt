@@ -1,0 +1,5 @@
+Base v5 Parts (no multiplexer)
+https://github.com/LucidVR/lucidgloves/wiki/Prototype-5-Beta-Parts-List
+
+Fae Mod Parts
+https://github.com/codingcatgirl/lucidgloves-fae-mod/blob/main/docs/ordering_parts.md
